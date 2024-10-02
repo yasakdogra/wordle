@@ -1,0 +1,4 @@
+#app {
+    @apply h-full w-full;
+    @apply flex place-items-center;
+}

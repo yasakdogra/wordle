@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+    @apply w-full h-full;
+}
+
+body {
+    @apply w-full h-full;
+}
